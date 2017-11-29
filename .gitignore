@@ -1,0 +1,11 @@
+.idea
+.env
+*.lock
+Thumbs.db
+logs/
+.env.*.php
+.env.php
+.DS_Store
+vendor/*
+wp/wp-content/upgrade/*
+wp/wp-content/uploads/*

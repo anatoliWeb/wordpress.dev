@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce 2Pay4 Payment Solutions Gateway\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-gateway-2pay4\n"
+"POT-Creation-Date: 2016-12-15 09:54+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LanguageTeam@ADDRESS>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "2Pay4 Payment Solutions"
+msgstr "2Pay4 Payment Solutions"
+
+msgid "Pay using 2Pay4 Payment Solutions"
+msgstr "Pay using 2Pay4 Payment Solutions"
+
+msgid "Show icon"
+msgstr "Show icon"
+
+msgid "Show help page"
+msgstr "Show help page"
+
+msgid "Description Show help page"
+msgstr "This redirect to description page"
+
+msgid "Rename button payment"
+msgstr "Rename button payment"
+
+msgid "rename button payment which the user sees during checkout"
+msgstr "Rename button payment which the user sees during checkout"
+
+msgid "Description rename button payment which the user sees during checkout"
+msgstr "rename button payment which the user sees during checkout"
+
+msgid "2Pay4 Sandbox"
+msgstr "2Pay4 Sandbox"
+
+msgid "Enable 2Pay4 sandbox"
+msgstr "Enable 2Pay4 sandbox"
+
+msgid ""
+"2Pay4 sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>."
+msgstr ""
+"2Pay4 sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>."
+
+msgid "Log 2Pay4 events, such as IPN requests, inside <code>%s</code>"
+msgstr "Log 2Pay4 events, such as IPN requests, inside <code>%s</code>"
+
+msgid "key"
+msgstr "key"
+
+msgid "check key 2Pay4 Payment"
+msgstr "check key 2Pay4 Payment"
+
+msgid "Processing of type"
+msgstr "Processing of type"
+
+msgid "Iframe"
+msgstr "Iframe"
+
+msgid "Redirect"
+msgstr "Redirect"
+
+msgid "Direct calls"
+msgstr "Direct calls"
+
+msgid "Processing of type 2Pay4 Payment"
+msgstr "Processing of type 2Pay4 Payment"
+
+msgid "Window state( Iframe )"
+msgstr "Window state( Iframe )"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Full screen"
+msgstr "Full screen"
+
+msgid "How to open the 2Pay4 Payment Window"
+msgstr "How to open the 2Pay4 Payment Window"
+
+msgid "Invoice data"
+msgstr "Invoice data"
+
+msgid "Enable invoice data"
+msgstr "Enable invoice data"
+
+msgid "Public key"
+msgstr "Public key"
+
+msgid "private key"
+msgstr "Private key"
+
+msgid "Merchant number"
+msgstr "Merchant number"
+
+msgid "Window ID"
+msgstr "Window ID"
+
+msgid "Instant capture"
+msgstr "Instant capture"
+
+msgid "Add fee to order"
+msgstr "Add fee to order"
+
+msgid "Add transaction fee to the order"
+msgstr "Add transaction fee to the order"
+
+msgid "Remote interface"
+msgstr "Remote interface"
+
+msgid "Use remote interface"
+msgstr "Use remote interface"
+
+msgid "Remote password"
+msgstr "Remote password"
+
+msgid "Auth Mail"
+msgstr "Auth Mail"
+
+msgid "Thank you for your order, please click the button below to pay with 2Pay4."
+msgstr "Thank you for your order, please click the button below to pay with 2Pay4."
+
+msgid "Proceed to 2Pay4"
+msgstr "Proceed to 2Pay4"
+
+msgid "Callback completed"
+msgstr "Callback completed"
+
+msgid "Callback completed"
+msgstr "Callback completed"
+
+msgid "Callback not completed"
+msgstr "Callback not completed"
+
+msgid "2Pay4 Acceptance Mark"
+msgstr "2Pay4 Acceptance Mark"
+
+msgid "What is 2Pay4?"
+msgstr "What is 2Pay4?"
+
+msgid "Pay via 2Pay4"
+msgstr "Pay via 2Pay4"
+
+msgid "Cancel order &amp; restore cart"
+msgstr "Cancel order &amp; restore cart"

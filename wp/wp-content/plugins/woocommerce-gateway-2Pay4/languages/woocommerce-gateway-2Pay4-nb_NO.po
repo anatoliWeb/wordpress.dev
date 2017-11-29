@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce 2Pay4 Payment Solutions Gateway\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-gateway-2pay4\n"
+"POT-Creation-Date: 2016-12-15 11:59+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-12-15 13:23+0200\n"
+"Language-Team: LanguageTeam@ADDRESS\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Language: nb_NO\n"
+
+msgid "2Pay4 Payment Solutions"
+msgstr "2Pay4 betalingsløsninger"
+
+msgid "Pay using 2Pay4 Payment Solutions"
+msgstr "Betal med 2Pay4 betalingsløsninger"
+
+msgid "Show icon"
+msgstr "Vis ikon"
+
+msgid "Show help page"
+msgstr "Vis hjelpeside"
+
+msgid "Description Show help page"
+msgstr "Beskrivelse Vis hjelpeside"
+
+msgid "Rename button payment"
+msgstr "Endre navn knappen betaling"
+
+msgid "rename button payment which the user sees during checkout"
+msgstr "Endre navn knappen betaling som brukeren ser i kassen"
+
+msgid "Description rename button payment which the user sees during checkout"
+msgstr "Endre navn knappen betaling som brukeren ser i kassen"
+
+msgid "2Pay4 Sandbox"
+msgstr "2Pay4 Sandbox"
+
+msgid "Enable 2Pay4 sandbox"
+msgstr "Aktiver 2Pay4 sandkasse"
+
+msgid ""
+"2Pay4 sandbox can be used to test payments. Sign up for a developer account <a "
+"href=\"%s\">here</a>."
+msgstr ""
+"2Pay4 sandkasse kan brukes til å teste betalinger. Registrer deg for en utvikler "
+"konto <a href=\"%s\">her</a>."
+
+msgid "Log 2Pay4 events, such as IPN requests, inside <code>%s</code>"
+msgstr "Logg 2Pay4 hendelser, for eksempel IPN forespørsler, inne <code>%s</code>"
+
+msgid "key"
+msgstr "Nøkkel"
+
+msgid "check key 2Pay4 Payment"
+msgstr "Sjekk nøkkel 2Pay4 Betaling"
+
+msgid "Processing of type"
+msgstr "Behandling av type"
+
+msgid "Iframe"
+msgstr "iFrames"
+
+msgid "Redirect"
+msgstr "Omadresser"
+
+msgid "Direct calls"
+msgstr "direkte samtaler"
+
+msgid "Processing of type 2Pay4 Payment"
+msgstr "Behandling av type 2Pay4 Betaling"
+
+msgid "Window state( Iframe )"
+msgstr "Vindu tilstand (Iframe)"
+
+msgid "Overlay"
+msgstr "overlay"
+
+msgid "Full screen"
+msgstr "Full skjerm"
+
+msgid "How to open the 2Pay4 Payment Window"
+msgstr "Hvordan åpne 2Pay4 Payment Window"
+
+msgid "Invoice data"
+msgstr "faktura data"
+
+msgid "Enable invoice data"
+msgstr "Aktiver fakturadata"
+
+msgid "Public key"
+msgstr "offentlig nøkkel"
+
+msgid "private key"
+msgstr "Private nøkkelen"
+
+msgid "Merchant number"
+msgstr "Merchant nummer"
+
+msgid "Window ID"
+msgstr "vindu ID"
+
+msgid "Instant capture"
+msgstr "Instant fangst"
+
+msgid "Add fee to order"
+msgstr "Legg avgift for å bestille"
+
+msgid "Add transaction fee to the order"
+msgstr "Legg transaksjonsgebyr til rekkefølgen"
+
+msgid "Remote interface"
+msgstr "Remote grensesnitt"
+
+msgid "Use remote interface"
+msgstr "Bruk fjern grensesnitt"
+
+msgid "Remote password"
+msgstr "Remote passord"
+
+msgid "Auth Mail"
+msgstr "Auth Mail"
+
+msgid "Thank you for your order, please click the button below to pay with 2Pay4."
+msgstr ""
+"Takk for din bestilling, må du klikke på knappen under for å betale med 2Pay4."
+
+msgid "Proceed to 2Pay4"
+msgstr "Fortsett til 2Pay4"
+
+msgid "Callback completed"
+msgstr "Tilbakering fullført"
+
+msgid "Callback not completed"
+msgstr "Tilbakeringing ikke fullført"
+
+msgid "2Pay4 Acceptance Mark"
+msgstr "2Pay4 Aksept Mark"
+
+msgid "What is 2Pay4?"
+msgstr "Hva er 2Pay4?"
+
+msgid "Pay via 2Pay4"
+msgstr "Betal via 2Pay4"
+
+msgid "Cancel order restore cart"
+msgstr "Kansellere bestillingen & amp; gjenopprette handlevogn"
